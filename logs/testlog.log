@@ -1,0 +1,159 @@
+2020-05-06 09:58:41,934 - inetBanking -INFO - url is oppened
+2020-05-06 09:58:42,488 - inetBanking -INFO - enter username
+2020-05-06 09:58:42,714 - inetBanking -INFO - enter password
+2020-05-06 21:12:52,421 - inetBanking -INFO - url is oppened
+2020-05-06 21:12:53,052 - inetBanking -INFO - enter username
+2020-05-06 21:12:53,320 - inetBanking -INFO - enter password
+2020-05-06 21:12:56,719 - inetBanking -INFO - login test passed
+2020-05-06 21:21:34,609 - inetBanking -INFO - url is oppened
+2020-05-06 21:21:35,191 - inetBanking -INFO - enter username
+2020-05-06 21:21:35,933 - inetBanking -INFO - enter password
+2020-05-06 21:21:44,588 - inetBanking -INFO - login test passed
+2020-05-06 21:25:47,207 - inetBanking -INFO - url is oppened
+2020-05-06 21:25:47,729 - inetBanking -INFO - enter username
+2020-05-06 21:25:47,972 - inetBanking -INFO - enter password
+2020-05-06 21:25:50,427 - inetBanking -INFO - login test passed
+2020-05-06 21:27:37,077 - inetBanking -INFO - url is oppened
+2020-05-06 21:27:37,441 - inetBanking -INFO - enter username
+2020-05-06 21:27:37,677 - inetBanking -INFO - enter password
+2020-05-06 21:27:48,921 - inetBanking -INFO - login test passed
+2020-05-06 21:48:24,304 - inetBanking -INFO - url is oppened
+2020-05-06 21:48:24,763 - inetBanking -INFO - enter username
+2020-05-06 21:48:25,006 - inetBanking -INFO - enter password
+2020-05-07 21:07:48,738 - inetBanking -INFO - url is oppened
+2020-05-07 21:07:49,303 - inetBanking -INFO - enter username
+2020-05-07 21:07:49,532 - inetBanking -INFO - enter password
+2020-05-07 21:16:37,632 - inetBanking -INFO - user name provided
+2020-05-07 21:17:07,801 - inetBanking -INFO - password provided
+2020-05-07 21:17:13,908 - inetBanking -INFO - Login passed
+2020-05-07 21:17:24,586 - inetBanking -INFO - user name provided
+2020-05-07 21:17:24,852 - inetBanking -INFO - password provided
+2020-05-07 21:29:08,308 - inetBanking -INFO - enter username
+2020-05-07 21:29:08,664 - inetBanking -INFO - enter pwd
+2020-05-07 21:29:19,648 - inetBanking -INFO - login test passed
+2020-05-07 21:29:29,849 - inetBanking -INFO - enter username
+2020-05-07 21:29:30,324 - inetBanking -INFO - enter pwd
+2020-05-07 21:29:38,838 - inetBanking -INFO - enter username
+2020-05-07 21:29:40,874 - inetBanking -INFO - enter pwd
+2020-05-07 21:29:47,331 - inetBanking -INFO - enter username
+2020-05-07 21:29:49,385 - inetBanking -INFO - enter pwd
+2020-05-07 21:29:56,701 - inetBanking -INFO - login test passed
+2020-05-07 21:30:11,852 - inetBanking -INFO - enter username
+2020-05-07 21:30:12,240 - inetBanking -INFO - enter pwd
+2020-05-07 21:40:23,688 - inetBanking -INFO - user name provided
+2020-05-07 21:40:24,176 - inetBanking -INFO - password provided
+2020-05-07 21:40:31,085 - inetBanking -INFO - Login passed
+2020-05-07 21:40:43,231 - inetBanking -INFO - user name provided
+2020-05-07 21:40:43,461 - inetBanking -INFO - password provided
+2020-05-07 21:40:49,417 - inetBanking -INFO - user name provided
+2020-05-07 21:40:51,674 - inetBanking -INFO - password provided
+2020-05-07 21:40:58,047 - inetBanking -INFO - user name provided
+2020-05-07 21:40:58,281 - inetBanking -INFO - password provided
+2020-05-07 21:41:03,359 - inetBanking -INFO - Login passed
+2020-05-07 22:24:21,872 - inetBanking -INFO - user name provided
+2020-05-07 22:24:22,372 - inetBanking -INFO - password provided
+2020-05-07 22:24:28,474 - inetBanking -INFO - Login passed
+2020-05-07 22:24:37,800 - inetBanking -INFO - user name provided
+2020-05-07 22:24:40,894 - inetBanking -INFO - password provided
+2020-05-07 22:24:51,645 - inetBanking -INFO - user name provided
+2020-05-07 22:24:51,898 - inetBanking -INFO - password provided
+2020-05-07 22:25:00,055 - inetBanking -INFO - Login passed
+2020-05-07 22:25:10,245 - inetBanking -INFO - user name provided
+2020-05-07 22:25:10,356 - inetBanking -INFO - password provided
+2020-05-07 22:25:18,450 - inetBanking -INFO - Login passed
+2020-05-07 22:25:28,631 - inetBanking -INFO - user name provided
+2020-05-07 22:25:28,742 - inetBanking -INFO - password provided
+2020-05-07 22:25:36,828 - inetBanking -INFO - Login passed
+2020-05-07 22:36:11,820 - inetBanking -INFO - user name provided
+2020-05-07 22:36:12,515 - inetBanking -INFO - password provided
+2020-05-07 22:36:19,117 - inetBanking -INFO - Login passed
+2020-05-07 22:40:03,941 - inetBanking -INFO - user name provided
+2020-05-07 22:40:04,441 - inetBanking -INFO - password provided
+2020-05-11 22:50:07,446 - inetBanking -INFO - user name provided
+2020-05-11 22:50:08,661 - inetBanking -INFO - password provided
+2020-05-11 22:50:15,785 - inetBanking -INFO - Login passed
+2020-05-11 22:50:23,862 - inetBanking -INFO - user name provided
+2020-05-11 22:50:24,060 - inetBanking -INFO - password provided
+2020-05-11 22:50:30,251 - inetBanking -INFO - user name provided
+2020-05-11 22:50:30,400 - inetBanking -INFO - password provided
+2020-05-11 22:50:36,476 - inetBanking -INFO - user name provided
+2020-05-11 22:50:36,636 - inetBanking -INFO - password provided
+2020-05-11 22:50:42,540 - inetBanking -INFO - Login passed
+2020-05-11 22:50:51,342 - inetBanking -INFO - user name provided
+2020-05-11 22:50:51,554 - inetBanking -INFO - password provided
+2020-05-11 23:03:07,622 - inetBanking -INFO - user name provided
+2020-05-11 23:03:07,845 - inetBanking -INFO - password provided
+2020-05-11 23:03:13,027 - inetBanking -INFO - Login passed
+2020-05-11 23:03:20,878 - inetBanking -INFO - user name provided
+2020-05-11 23:03:21,068 - inetBanking -INFO - password provided
+2020-05-11 23:03:26,817 - inetBanking -INFO - user name provided
+2020-05-11 23:03:26,977 - inetBanking -INFO - password provided
+2020-05-11 23:03:32,478 - inetBanking -INFO - user name provided
+2020-05-11 23:03:32,650 - inetBanking -INFO - password provided
+2020-05-11 23:03:37,459 - inetBanking -INFO - Login passed
+2020-05-11 23:03:44,387 - inetBanking -INFO - user name provided
+2020-05-11 23:03:44,551 - inetBanking -INFO - password provided
+2020-05-15 20:18:52,034 - inetBanking -INFO - user name provided
+2020-05-15 20:18:53,406 - inetBanking -INFO - password provided
+2020-05-15 20:18:59,661 - inetBanking -INFO - Login passed
+2020-05-15 20:19:06,439 - inetBanking -INFO - user name provided
+2020-05-15 20:19:06,577 - inetBanking -INFO - password provided
+2020-05-15 20:19:13,140 - inetBanking -INFO - user name provided
+2020-05-15 20:19:13,272 - inetBanking -INFO - password provided
+2020-05-15 20:19:18,523 - inetBanking -INFO - user name provided
+2020-05-15 20:19:18,719 - inetBanking -INFO - password provided
+2020-05-15 20:19:24,226 - inetBanking -INFO - Login passed
+2020-05-15 20:19:30,306 - inetBanking -INFO - user name provided
+2020-05-15 20:19:30,437 - inetBanking -INFO - password provided
+2020-05-15 20:19:35,820 - inetBanking -INFO - Login passed
+2020-05-15 20:22:27,464 - inetBanking -INFO - user name provided
+2020-05-15 20:22:28,749 - inetBanking -INFO - password provided
+2020-05-15 20:22:40,211 - inetBanking -INFO - Login passed
+2020-05-15 20:22:46,272 - inetBanking -INFO - user name provided
+2020-05-15 20:22:46,418 - inetBanking -INFO - password provided
+2020-05-15 20:22:53,427 - inetBanking -INFO - user name provided
+2020-05-15 20:22:53,664 - inetBanking -INFO - password provided
+2020-05-15 20:23:00,591 - inetBanking -INFO - user name provided
+2020-05-15 20:23:01,104 - inetBanking -INFO - password provided
+2020-05-15 20:23:06,510 - inetBanking -INFO - Login passed
+2020-05-15 20:23:12,826 - inetBanking -INFO - user name provided
+2020-05-15 20:23:12,953 - inetBanking -INFO - password provided
+2020-05-15 20:23:18,352 - inetBanking -INFO - Login passed
+2020-05-16 20:07:25,539 - inetBanking -INFO - user name provided
+2020-05-16 20:07:25,816 - inetBanking -INFO - password provided
+2020-12-05 13:32:44,628 - inetBanking -INFO - user name provided
+2020-12-05 13:32:44,822 - inetBanking -INFO - password provided
+2020-12-05 13:32:50,103 - inetBanking -INFO - user name provided
+2020-12-05 13:32:50,531 - inetBanking -INFO - password provided
+2020-12-05 13:32:55,961 - inetBanking -INFO - user name provided
+2020-12-05 13:32:56,193 - inetBanking -INFO - password provided
+2020-12-09 20:49:48,597 - inetBanking -INFO - user name provided
+2020-12-09 20:49:48,790 - inetBanking -INFO - password provided
+2020-12-09 20:49:54,753 - inetBanking -INFO - user name provided
+2020-12-09 20:49:54,961 - inetBanking -INFO - password provided
+2020-12-09 20:50:00,383 - inetBanking -INFO - user name provided
+2020-12-09 20:50:00,527 - inetBanking -INFO - password provided
+2020-12-09 20:50:06,405 - inetBanking -INFO - user name provided
+2020-12-09 20:50:06,545 - inetBanking -INFO - password provided
+2020-12-09 20:50:12,853 - inetBanking -INFO - user name provided
+2020-12-09 20:50:12,913 - inetBanking -INFO - password provided
+2020-12-09 20:53:45,023 - inetBanking -INFO - user name provided
+2020-12-09 20:53:45,130 - inetBanking -INFO - password provided
+2020-12-09 20:53:50,747 - inetBanking -INFO - user name provided
+2020-12-09 20:53:50,843 - inetBanking -INFO - password provided
+2020-12-09 20:53:56,481 - inetBanking -INFO - user name provided
+2020-12-09 20:53:56,569 - inetBanking -INFO - password provided
+2020-12-09 20:54:02,083 - inetBanking -INFO - user name provided
+2020-12-09 20:54:02,193 - inetBanking -INFO - password provided
+2020-12-09 20:54:07,665 - inetBanking -INFO - user name provided
+2020-12-09 20:54:07,797 - inetBanking -INFO - password provided
+2020-12-10 11:31:29,053 - inetBanking -INFO - user name provided
+2020-12-10 11:31:29,251 - inetBanking -INFO - password provided
+2020-12-10 11:31:35,528 - inetBanking -INFO - user name provided
+2020-12-10 11:31:35,808 - inetBanking -INFO - password provided
+2020-12-10 11:31:40,837 - inetBanking -INFO - user name provided
+2020-12-10 11:31:41,070 - inetBanking -INFO - password provided
+2020-12-10 11:31:46,934 - inetBanking -INFO - user name provided
+2020-12-10 11:31:47,075 - inetBanking -INFO - password provided
+2020-12-10 11:31:52,229 - inetBanking -INFO - user name provided
+2020-12-10 11:31:52,498 - inetBanking -INFO - password provided
